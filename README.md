@@ -33,7 +33,7 @@ Referências utilizadas:
 ## Atividades previstas
 
 | #  | Tópico                                              | Duração      | Descrição                                                                 | Recursos                |
-|----|----------------------------------------------------|--------------|-----------------------------------------------------------------------------|
+|----|----------------------------------------------------|--------------|-----------------------------------------------------------------------------|---|
 | 01 | Workshop                                          | 60 minutes   | Develop skills with VS Code and GitHub Copilot.                             | [**Instruções**](https://github.com/DotNetSP/integrate-mcp-with-copilot) |
 
 
