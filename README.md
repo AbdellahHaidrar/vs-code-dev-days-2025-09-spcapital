@@ -26,6 +26,8 @@ Referências utilizadas:
 - [Model Context Protocol](https://marketplace.visualstudio.com/vscode)
 - [Docker MCP Hub](https://hub.docker.com/mcp)
 - [APIsec University - Certificações online gratuitas](https://www.apisecuniversity.com/)
+- [Certificação Gratuita - Securing ‍LLM & NLP APIs - APIsec University](https://www.apisecuniversity.com/courses/securing-llm-nlp-apis)
+- [Certificação Gratuita - Building ‍Security into AI - APIsec University](https://www.apisecuniversity.com/courses/building-security-into-ai)
 - [Microsoft Learn MCP Server overview](https://learn.microsoft.com/en-us/training/support/mcp)
 
 ---
